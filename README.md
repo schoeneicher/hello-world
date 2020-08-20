@@ -6,4 +6,5 @@ I have some edits on the readme-edits branch,
 but not more than this.
 What about a new version of the README?
 
-Notify myself @github/schoeneicher - hello!
+Notify myself @github/schoeneicher - hello! -- does not work.
+Send me an email: [schoeneicher](mailto:christian.luehe@gmail.com)
